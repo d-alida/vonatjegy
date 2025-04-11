@@ -1,0 +1,4 @@
+14e6 5
+Budapest 12:45 0
+Szolnok 15:54 5
+Valami 15:55 10
